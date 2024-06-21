@@ -1,5 +1,5 @@
 // Calculate the difference between two dates
-const countDownDate = new Date("2024-11-10").getTime();
+const countDownDate = new Date("2024-11-03").getTime();
 
 // Update the countdown every second
 const x = setInterval(function() {
